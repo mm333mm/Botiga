@@ -1,0 +1,298 @@
+{
+    "productes": [
+        {
+            "nombre": "iPhone 13 Pro",
+            "precio": 1099.00,
+            "imagen": "#",
+            "stock": 15,
+            "carro": 0
+        },
+        {
+            "nombre": "Samsung Galaxy S21",
+            "precio": 899.99,
+            "imagen": "#",
+            "stock": 20,
+            "carro": 0
+        },
+        {
+            "nombre": "MacBook Air",
+            "precio": 999.00,
+            "imagen": "#",
+            "stock": 10,
+            "carro": 0
+        },
+        {
+            "nombre": "Sony PlayStation 5",
+            "precio": 499.99,
+            "imagen": "#",
+            "stock": 5,
+            "carro": 0
+        },
+        {
+            "nombre": "Samsung 55-inch 4K Smart TV",
+            "precio": 699.99,
+            "imagen": "#",
+            "stock": 8,
+            "carro": 0
+        },
+        {
+            "nombre": "Bose QuietComfort 35 II",
+            "precio": 299.00,
+            "imagen": "#",
+            "stock": 12,
+            "carro": 0
+        },
+        {
+            "nombre": "Apple Watch Series 7",
+            "precio": 399.00,
+            "imagen": "#",
+            "stock": 18,
+            "carro": 0
+        },
+        {
+            "nombre": "DJI Mavic Air 2 Drone",
+            "precio": 799.00,
+            "imagen": "#",
+            "stock": 7,
+            "carro": 0
+        },
+        {
+            "nombre": "Lenovo ThinkPad X1 Carbon",
+            "precio": 1499.00,
+            "imagen": "#",
+            "stock": 9,
+            "carro": 0
+        },
+        {
+            "nombre": "Logitech MX Master 3 Mouse",
+            "precio": 99.99,
+            "imagen": "#",
+            "stock": 25,
+            "carro": 0
+        },
+        {
+            "nombre": "Google Pixel 6 Pro",
+            "precio": 899.00,
+            "imagen": "#",
+            "stock": 15,
+            "carro": 0
+        },
+        {
+            "nombre": "LG OLED 65-inch 4K Smart TV",
+            "precio": 1299.99,
+            "imagen": "#",
+            "stock": 10,
+            "carro": 0
+        },
+        {
+            "nombre": "Microsoft Surface Laptop 4",
+            "precio": 1099.00,
+            "imagen": "#",
+            "stock": 12,
+            "carro": 0
+        },
+        {
+            "nombre": "Sony WH-1000XM4 Headphones",
+            "precio": 299.99,
+            "imagen": "#",
+            "stock": 20,
+            "carro": 0
+        },
+        {
+            "nombre": "Nintendo Switch OLED",
+            "precio": 349.00,
+            "imagen": "#",
+            "stock": 10,
+            "carro": 0
+        },
+        {
+            "nombre": "Canon EOS 5D Mark IV",
+            "precio": 2499.00,
+            "imagen": "#",
+            "stock": 5,
+            "carro": 0
+        },
+        {
+            "nombre": "Amazon Echo Show 10",
+            "precio": 249.99,
+            "imagen": "#",
+            "stock": 15,
+            "carro": 0
+        },
+        {
+            "nombre": "Samsung 27-inch Curved Gaming Monitor",
+            "precio": 399.00,
+            "imagen": "#",
+            "stock": 8,
+            "carro": 0
+        },
+        {
+            "nombre": "Xbox Series X",
+            "precio": 499.00,
+            "imagen": "#",
+            "stock": 10,
+            "carro": 0
+        },
+        {
+            "nombre": "Sony 65-inch 4K OLED TV",
+            "precio": 1699.99,
+            "imagen": "#",
+            "stock": 7,
+            "carro": 0
+        },
+        {
+            "nombre": "GoPro Hero 10",
+            "precio": 399.00,
+            "imagen": "#",
+            "stock": 15,
+            "carro": 0
+        },
+        {
+            "nombre": "Canon EOS R5",
+            "precio": 3499.00,
+            "imagen": "#",
+            "stock": 3,
+            "carro": 0
+        },
+        {
+            "nombre": "Dell XPS 13 Laptop",
+            "precio": 1199.00,
+            "imagen": "#",
+            "stock": 8,
+            "carro": 0
+        },
+        {
+            "nombre": "Nintendo Switch Lite",
+            "precio": 199.00,
+            "imagen": "#",
+            "stock": 15,
+            "carro": 0
+        },
+        {
+            "nombre": "Sony 75-inch 8K Smart TV",
+            "precio": 3499.99,
+            "imagen": "#",
+            "stock": 5,
+            "carro": 0
+        },
+        {
+            "nombre": "Bose SoundLink Revolve+ Speaker",
+            "precio": 249.00,
+            "imagen": "#",
+            "stock": 12,
+            "carro": 0
+        },
+        {
+            "nombre": "HP Spectre x360 Laptop",
+            "precio": 1299.00,
+            "imagen": "#",
+            "stock": 9,
+            "carro": 0
+        },
+        {
+            "nombre": "Amazon Fire TV Stick 4K",
+            "precio": 49.99,
+            "imagen": "#",
+            "stock": 20,
+            "carro": 0
+        },
+        {
+            "nombre": "Sony Cyber-shot DSC-RX100 VII",
+            "precio": 1199.00,
+            "imagen": "#",
+            "stock": 6,
+            "carro": 0
+        },
+        {
+            "nombre": "LG Gram 17 Laptop",
+            "precio": 1499.00,
+            "imagen": "#",
+            "stock": 4,
+            "carro": 0
+        },
+        {
+            "nombre": "Sony PlayStation 6",
+            "precio": 599.99,
+            "imagen": "#",
+            "stock": 10,
+            "carro": 0
+        },
+        {
+            "nombre": "LG 32-inch 4K Smart TV",
+            "precio": 449.99,
+            "imagen": "#",
+            "stock": 15,
+            "carro": 0
+        },
+        {
+            "nombre": "Sony WF-1000XM4 Earbuds",
+            "precio": 249.00,
+            "imagen": "#",
+            "stock": 20,
+            "carro": 0
+        },
+        {
+            "nombre": "Lenovo Yoga C940 Laptop",
+            "precio": 1299.00,
+            "imagen": "#",
+            "stock": 8,
+            "carro": 0
+        },
+        {
+            "nombre": "Razer BlackWidow Elite Keyboard",
+            "precio": 149.99,
+            "imagen": "#",
+            "stock": 12,
+            "carro": 0
+        },
+        {
+            "nombre": "Fitbit Versa 4 Smartwatch",
+            "precio": 199.00,
+            "imagen": "#",
+            "stock": 15,
+            "carro": 0
+        },
+        {
+            "nombre": "Nikon D850 DSLR Camera",
+            "precio": 2999.00,
+            "imagen": "#",
+            "stock": 5,
+            "carro": 0
+        },
+        {
+            "nombre": "Google Nest Hub 2nd Gen",
+            "precio": 99.99,
+            "imagen": "#",
+            "stock": 10,
+            "carro": 0
+        },
+        {
+            "nombre": "Samsung Galaxy Tab S7",
+            "precio": 599.00,
+            "imagen": "#",
+            "stock": 8,
+            "carro": 0
+        },
+        {
+            "nombre": "Corsair HS70 Wireless Headset",
+            "precio": 79.99,
+            "imagen": "#",
+            "stock": 10,
+            "carro": 0
+        },
+        {
+            "nombre": "Anker PowerCore 26800 Power Bank",
+            "precio": 49.99,
+            "imagen": "#",
+            "stock": 7,
+            "carro": 0
+        },
+        {
+            "nombre": "Dell Ultrasharp 27-inch Monitor",
+            "precio": 499.00,
+            "imagen": "#",
+            "stock": 12,
+            "carro": 0
+        }
+    ]
+}
